@@ -19,14 +19,26 @@ header, body {
 }
 
 .card {
-    margin: 2rem;
-    padding: 2rem;
+    margin: 0 auto;
+    float: none;
+    min-height: 550px;
+    max-height: 550px;
+    margin-bottom: 1em;
 }
 
 .card-img-top {
     max-height: 225px;
 }
 
+.card-title {
+    font-size: 32px;
+}
+
 .card-text {
     text-align: left;
+    font-size: 24px;
+}
+
+.card a {
+    text-decoration: none;
 }
