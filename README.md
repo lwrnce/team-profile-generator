@@ -2,6 +2,9 @@
 
 ## Description
 This is a command line application that helps generate an html file containing the profiles of you and your teammates. The application first checks to see if you are the manager. Please note that only managers have access to the application! If you enter "No", you will be exited out of the application. After confirming, you will be prompted with a series of questions regarding the information of you and your teammates. The html file will be generated upon finishing and exiting the application.
+
+Here is the walkthrough video:
+[Walkthrough Video](https://www.youtube.com/watch?v=R7LvEyyYoU0)
     
 ## Table of Contents:
 * [Installation](#installation)
